@@ -23,10 +23,11 @@ All three of the above publications refer to a paper by the Tang group (2016) in
 Synthetic efforts on this front began in the 2000s with the PhD work of J. M. Hart. Her initial efforts focused on the use of various oxidative coupling reagents for the formation of phenol-phenol C-C bonds.
 
 ![alt text](total_synth_of_herq/Hart_transform.PNG)
-Reagent : Result
-VOF3, TFA : No product observed
-FeCl3 : No conversion
-Pb(OAc)2 : No conversion
+|Reagent|Result|
+|:-----:|:----:|
+|VOF<sub>3</sub>, TFA|No product observed|
+|FeCl<sub>3</sub>|No conversion| 
+|Pb(OAc)<sub>2</sub>|No conversion|
 
 
 
