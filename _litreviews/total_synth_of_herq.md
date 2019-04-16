@@ -8,5 +8,3 @@ citation: 'idk how to cite this'
 paperurl: 'http://therealsalmon.github.io/files/total_synth_of_herq.pdf'
 
 ---
-
-I wrote a literature review on the history of the total synthesis of Herqulines B & C. Give it a read and let me know what you think :)
