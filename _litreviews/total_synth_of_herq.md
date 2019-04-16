@@ -26,9 +26,9 @@ Synthetic efforts on this front began in the 2000s with the PhD work of J. M. Ha
 
 |  Reagent  |        Result       |
 |:---------:|:-------------------:|
-| VOF3, TFA | No product observed |
-| FeCl3     | No conversion       |
-| Pb(OAc)2  | No conversion       |
+| VOF<sub>3</sub>, TFA | No product observed |
+| FeCl<sub>3</sub>     | No conversion       |
+| Pb(OAc)<sub>2</sub>  | No conversion       |
 
 
 
