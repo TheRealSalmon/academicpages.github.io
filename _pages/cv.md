@@ -18,7 +18,7 @@ Education
 Relevant Experience
 ======
 * August 2017 to Present: Research Associate
-  * Evan W. Miller Lab, UC Berkeley
+  * Miller Lab, UC Berkeley
   * Synthesized novel functional dyes for the sensing of voltage in biological membranes
   * Used DFT to perform conformation analyses of the electron donating moiety
 
