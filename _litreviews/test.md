@@ -1,7 +1,7 @@
 ---
 title: "Test1"
 collection: litreviews
-permalink: /litreviews
+permalink: /litreviews/test
 excerpt: ''
 date: 2019-04-16
 paperurl: ''
