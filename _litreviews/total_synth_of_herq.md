@@ -44,10 +44,10 @@ Table 2: A selection of the methodologies attempted by Stawski.
 | Conditions | Result |
 |:----------:|:------:|
 |Ni(PPh<sub>3</sub>)<sub>2</sub>Cl<sub>2</sub>, Zn, PPh<sub>3</sub>, NaH, THF, 90 &deg;C|decomposition|
-|||
-|||
-|||
-|||
-|||
+|Ni(COD)<sub>2</sub>, THF, -78 &deg;C to RT|complex mixture|
+|Ni(COD)<sub>2</sub>, P(n-Bu)<sub>3</sub>, DMF, RT to 40 &deg;C|complex mixture|
+|Cu(activated), RT to 130 &deg;C|decomposition|
+|n-Bu<sub>6</sub>Sn<sub>2</sub>, Pd(PPh<sub>3</sub>)<sub>4</sub>, THF, 50 &deg;C|dehalogenation|
+|(BPin)<sub>2</sub>, Pd(dppf)<sub>2</sub>Cl<sub>2</sub>, KOAc, DMSO, 80 &deg;C|decomposition|
 
 [Link](http://therealsalmon.github.io/files/total_synth_of_herq.pdf) to review.
