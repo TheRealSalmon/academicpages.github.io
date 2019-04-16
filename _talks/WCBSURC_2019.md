@@ -3,7 +3,7 @@ title: "New Methods for Modulating the Sensitivity and Brightness of Voltage-Sen
 collection: talks
 type: "Presentation"
 permalink: /talks/WCBSURC_2019
-venue: "University of San Diego"
+venue: "West Coast Biological Sciences Undergraduate Research Conference"
 date: 2019-04-06
 location: "San Diego, California"
 ---
