@@ -11,4 +11,6 @@ ABSTRACT: The Herquline family of natural products is a group of macrocyclic pip
 
 INTRODUCTION: Herqulines are a family of natural products isolated from Penicillium herquei consisting of the pentacyclic Herquline A and the tetracyclic Herqulines B & C. The phenolic oxidative coupling and dearomatizing reductions that compose their synthesis from tyrosine have been a field of active study since 2004. At the time of writing (April [], 2019) there were three articles published independently and in quick succession by the Wood group (2018/12/18), Baran group (2018/12/21), and Schindler group (2019/2/14) detailing the total syntheses of Herqulines B & C from tyrosine. In this literature review, I discuss the key transformations in the total synthesis of Herqulines and the development of the strategies employed to finally reach the target.
 
+![alt text](herqulines.png)
+
 [Link](http://therealsalmon.github.io/files/total_synth_of_herq.pdf) to review.
