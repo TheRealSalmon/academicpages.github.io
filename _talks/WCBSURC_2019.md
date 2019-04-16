@@ -4,7 +4,7 @@ collection: talks
 type: "Presentation"
 permalink: /talks/WCBSURC_2019
 venue: "West Coast Biological Sciences Undergraduate Research Conference"
-date: 2019-04-06
+date: "April 2019"
 location: "San Diego, California"
 ---
 
