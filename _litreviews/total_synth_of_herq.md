@@ -24,9 +24,13 @@ Synthetic efforts on this front began in the 2000s with the PhD work of J. M. Ha
 
 ![alt text](total_synth_of_herq/Hart_transform.PNG)
 |  Reagent  |        Result       |
+
 |:---------:|:-------------------:|
+
 | VOF3, TFA | No product observed |
+
 | FeCl3     | No conversion       |
+
 | Pb(OAc)2  | No conversion       |
 
 
