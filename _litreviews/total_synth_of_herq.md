@@ -50,4 +50,7 @@ Table 2: A selection of the methodologies attempted by Stawski.
 |n-Bu<sub>6</sub>Sn<sub>2</sub>, Pd(PPh<sub>3</sub>)<sub>4</sub>, THF, 50 &deg;C|dehalogenation|
 |(BPin)<sub>2</sub>, Pd(dppf)<sub>2</sub>Cl<sub>2</sub>, KOAc, DMSO, 80 &deg;C|decomposition|
 
+Frustratingly, Stawski was very close to the “correct” answer. He attempts a two-step, one-pot procedure utilizing Pd0, (BPin)2, and a base in DMSO at 80 ℃. This is essentially identical to the methodology used by the Wood group to form the biaryl C-C bond. If Stawski had started his route from tyrosine rather than pyroglutamate, he likely would have stumbled upon the prize. Ultimately, as with Hart, his work on the topic ended before finding a robust methodology. 
+
+
 [Link](http://therealsalmon.github.io/files/total_synth_of_herq.pdf) to review.
