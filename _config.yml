@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Test Account"
+title                    : "The Noob Chemist"
 title_separator          : "-"
-name                     : &name "Dr. Test Account"
+name                     : &name "Dong Min (Sam) Mun"
 description              : &description "Research scientist at Test University"
 url                      : https://therealsalmon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
