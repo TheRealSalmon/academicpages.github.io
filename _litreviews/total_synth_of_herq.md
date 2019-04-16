@@ -7,6 +7,7 @@ date: 2019-04-16
 paperurl: 'http://therealsalmon.github.io/files/total_synth_of_herq.pdf'
 
 citation: 'idk how to cite this'
+
 ---
 
 I wrote a literature review on the history of the total synthesis of Herqulines B & C. Give it a read and let me know what you think :)
