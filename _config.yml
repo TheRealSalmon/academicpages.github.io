@@ -14,7 +14,7 @@ description              : &description "Undergraduate Researcher in the Evan Mi
 url                      : https://therealsalmon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "therealsalmon.github.io"
-teaser                   : "500x300.png"
+teaser                   : # "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 comments:
@@ -103,7 +103,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "testaccount-this-is-fake"
+  twitter          : "samuelmun2"
   vine             :
   weibo            :
   xing             :
