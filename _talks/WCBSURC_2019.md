@@ -1,7 +1,7 @@
 ---
-title: "New Methods for Modulating the Sensitivity and Brightness of Voltage-Sensitive Dyes"
+title: "Presentation: New Methods for Modulating the Sensitivity and Brightness of Voltage-Sensitive Dyes"
 collection: talks
-type: "Talk"
+type: "Presentation"
 permalink: /talks/WCBSURC_2019
 venue: "University of San Diego"
 date: 2019-04-06
