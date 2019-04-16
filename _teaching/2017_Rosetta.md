@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2017_Rosetta
 venue: "Rosetta Institute Biomedical Summer Camp"
-date: 2017-6
+date: 2017-06-01
 location: "Berkeley, California"
 ---
 
