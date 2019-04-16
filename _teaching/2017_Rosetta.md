@@ -1,5 +1,5 @@
 ---
-title: "Head Introductory Molecular Biology Lab TA"
+title: "Molecular Biology Lab Head TA"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2017_Rosetta
