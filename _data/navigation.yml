@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Literature Reviews"
+    url: /litreviews/
+
   - title: "Publications"
     url: /publications/
 
