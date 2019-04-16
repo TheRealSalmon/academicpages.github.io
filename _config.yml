@@ -11,9 +11,9 @@ title                    : "The Noob Chemist"
 title_separator          : "-"
 name                     : &name "Dong Min (Sam) Mun"
 description              : &description "Undergraduate Junior studying Chemical Biology at UC Berkeley. Interested in computational and synthetic organic chemistry."
-url                      : https://therealsam.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://therealsalmon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "therealsam.github.io"
+repository               : "therealsalmon.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
