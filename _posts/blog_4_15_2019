@@ -1,11 +1,20 @@
 ---
-title: 'My First Blog Post!'
-date: 2019-04-15
-permalink: /posts/2019/blog_4_15_2019
-tags: 
-  - not_chem
+title: 'Blog Post number 2'
+date: 2013-08-14
+permalink: /posts/2013/08/blog-post-2/
+tags:
+  - cool posts
+  - category1
+  - category2
 ---
 
-Hi everyone, this is my first ever post onto my personal website. I'm really glad I put the time in to make this website and I look forward to updating and growing this site until it fully expresses my academic identity. Thanks for visiting :)
+This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
 
--Sam
+Headings are cool
+======
+
+You can have many headings
+======
+
+Aren't headings cool?
+------
