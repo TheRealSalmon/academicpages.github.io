@@ -11,49 +11,47 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Chemical Biology, GitHub University, 2020 (expected)
+  * GPA: 3.95
+  * Undergraduate Thesis: (Coming Soon!)
 
-Work experience
+Relevant Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* August 2017 to Present: Research Associate
+  * Evan W. Miller Lab, UC Berkeley
+  * Synthesized novel functional dyes for the sensing of voltage in biological membranes
+  * Used DFT to perform conformation analyses of the electron donating moiety
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Skills
 ======
-* Currently signed in to 43 different slack teams
+* Analytical
+  * NMR
+  * LC/MS
+* Synthetic
+  * Prep-HPLC
+  * Prep-TLC
+  * Flash Chromatography
+  * Air- and water-free methodologies
+* Computational
+  * GAMESS
+  * QCHEM
+* Programming
+  * Python
