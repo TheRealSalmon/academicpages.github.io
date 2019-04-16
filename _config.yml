@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "The Noob Chemist"
 title_separator          : "-"
 name                     : &name "Dong Min (Sam) Mun"
-description              : &description "Research scientist at Test University"
+description              : &description "Undergraduate Researcher in the Evan Miller Group @ UC Berkeley"
 url                      : https://therealsalmon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "therealsalmon.github.io"
@@ -37,7 +37,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : "therealsam@berkeley.edu"
   generatedFields:
     date:
       type               : "date"
