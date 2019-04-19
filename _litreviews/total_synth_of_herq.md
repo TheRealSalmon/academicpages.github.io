@@ -9,7 +9,7 @@ paperurl: 'http://therealsalmon.github.io/litreviews/total_synth_of_herq/total_s
 
 ABSTRACT:
 -----
-The Herquline family of natural products is a group of macrocyclic piperazines that display inhibition of influenza virus replication (Herquline A) and platelet aggregation (Herquline B). The central difficulties, and opportunities, of their synthesis are the formation of a strained biaryl C-C bond and the selective reductions of the dityrosine aromatic rings and amides. This literature review will focus on relevant PhD theses as well as the recently published work of the Wood group, the Baran group, and Schindler group (2018-2019) detailing the total syntheses of Herqulines B & C. 
+The herquline family of natural products is a group of macrocyclic piperazines that display inhibition of influenza virus replication (herquline A) and platelet aggregation (herquline B). The central difficulties, and opportunities, of their syntheses are the formation of a strained biaryl C-C bond and the selective reductions of the dityrosine aromatic rings and amides. This literature review will discuss relevant PhD theses as well as the recently published work of the Wood, Baran, and Schindler groups detailing the total syntheses of herqulines B & C. 
 
 Introduction
 -----
@@ -18,6 +18,6 @@ Herqulines are a family of natural products isolated from Penicillium herquei co
 ![alt text](total_synth_of_herq/herqulines.PNG)
 Figure 1: The Herquline family of natural products.
 
-At the time of writing (April [], 2019) there were three articles published independently and in quick succession by the Wood group (2018/12/18), Baran group (2018/12/21), and Schindler group (2019/2/14) detailing the total syntheses of Herqulines B & C from tyrosine. In this literature review, I discuss the key transformations in the total synthesis of Herqulines and the development of the strategies employed to finally reach the target.
+At the time of writing there were three articles published independently and in quick succession by the Wood group, Baran group, and Schindler group detailing the total syntheses of herqulines B & C from tyrosine. In this literature review, I discuss the key transformations in the total synthesis of herquline B and the development of the strategies employed to finally reach the target.
 
 [Link](http://therealsalmon.github.io/litreviews/total_synth_of_herq/total_synth_of_herq.pdf) to review.
