@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in Chemical Biology, GitHub University, 2020 (expected)
+* B.S. in Chemical Biology, University of California, Berkeley, 2020 (expected)
   * GPA: 3.95
   * Undergraduate Thesis: (Coming Soon!)
 
 Relevant Experience
 ======
-* August 2017 to Present: Research Associate
-  * Miller Lab, UC Berkeley
+* August 2017 to Present: Research Associate, Miller Lab, UC Berkeley
   * Synthesized novel functional dyes for the sensing of voltage in biological membranes
-  * Used DFT to perform conformation analyses of the electron donating moiety
+  * Used DFT to perform conformation analyses of electron donating moieties
 
 Publications
 ======
